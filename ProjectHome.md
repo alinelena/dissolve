@@ -1,0 +1,1 @@
+dUQ takes one or more sets of experimental scattering data and, given constraints such as composition and molecular connectivity, attempts to generate an atomistic model which is consistent with the provided data.
