@@ -550,7 +550,7 @@
        <item>
         <widget class="QStackedWidget" name="WizardStack">
          <property name="currentIndex">
-          <number>1</number>
+          <number>0</number>
          </property>
          <widget class="QWidget" name="WizardPage0">
           <layout class="QVBoxLayout" name="verticalLayout_5">
